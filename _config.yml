@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Levi Stevenson"
-  pronouns         : # example: "she/her"
+  pronouns         : "He/Him"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bethlehem, PA"
+  employer         : "Lehigh University"
   uri              : # URL
-  email            : "none@example.org"
+  email            : "levigrantstevenson@gmail.com"
 
   # Academic websites
   academia         : # URL
